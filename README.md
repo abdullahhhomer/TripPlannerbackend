@@ -13,6 +13,18 @@ The React frontend is maintained as a separate project and consumes this API for
 
 ---
 
+
+## 👨‍💻 Author
+
+
+### Abdullah Omer
+**Computer Science Student | Backend Developer | Full Stack AI Developer**
+
+- 📧 **Email:** [abdullahhhomer@gmail.com](mailto:abdullahhhomer@gmail.com)
+- 🐙 **GitHub:** [github.com/abdullahhhomer](https://github.com/abdullahhhomer)
+- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/abdullah-omer-84b991181/)
+---
+
 # Stack
 
 - Python 3.14
@@ -448,26 +460,6 @@ Frontend repository:
 
 ---
 
-# Author
-
-## Abdullah Omer
-
-Computer Science Student | Backend Developer | Full Stack AI Developer
-
-📧 Email:
-```
-abdullahhhomer@gmail.com
-```
-
-🐙 GitHub:
-
-https://github.com/abdullahhhomer
-
-💼 LinkedIn:
-
-https://www.linkedin.com/in/abdullah-omer-84b991181/
-
----
 
 # License
 
